@@ -1,0 +1,11 @@
+html, 
+body {
+    background-image: url('https://res.cloudinary.com/www-edgarfabianfrias-org/image/upload/v1606786662/New_Project_4_uk5mso.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  canvas {
+    display: block;
+  }
+  

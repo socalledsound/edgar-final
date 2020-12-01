@@ -1,0 +1,15 @@
+html
+
+body {
+    background-image: url('https://res.cloudinary.com/www-edgarfabianfrias-org/image/upload/v1606746191/New_Project_3_pwjhpc.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+{
+    margin: 0;
+    padding: 0;
+  }
+  canvas {
+    display: block;
+  }

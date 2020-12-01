@@ -1,0 +1,109 @@
+/* 
+TOTAL SITE STYLES */
+
+body {
+  background-image: url('https://res.cloudinary.com/www-edgarfabianfrias-org/image/upload/v1605622708/New_Project_3_ulkooi.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+/* nav styles */
+nav a{
+    text-decoration: none;
+}
+
+#nav-left {
+    float: left;
+    font-size: 30px;
+    /* width: 100px; */
+
+}
+
+#nav-right {
+    float: right;
+    font-size: 30px;
+    /* width: 100px; */
+}
+
+
+/* home page styles */
+
+.title-text {
+    font-size: 3rem;
+    text-align: center;
+}
+
+
+.page-title{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* text-align: center; */
+    font-size: 80px;
+    padding: 40px;
+    width: 40%;
+
+    /* border: 2px solid palegoldenrod; */
+}
+
+p{
+    margin: 0 auto;
+}
+
+    .grid-container {
+        display: grid;
+        grid-template-columns: auto auto auto auto;
+    }
+
+
+.container {
+  width: 200px;
+  height: 200px;
+  margin-top: 50px;
+  margin-left: 50px;
+   
+}
+
+.container:hover{
+    transform: scale(1.1);
+}
+
+/* font-size:16px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;" */
+
+
+        
+.item :hover, h1 :hover, .item img :hover, title :hover {
+            background-color: orchid;
+        }
+
+.page-title :hover{
+    background-color: palegoldenrod;
+}
+
+
+.item { 
+    filter: drop-shadow(25px 25px 30px #000000);
+}
+
+.item img  {
+    width: 100%;
+    height: 100%;
+}
+ .title {
+     font-size: 200px;
+     font-family:;
+ }   
+
+.sparkle {
+	
+	font-size:150px;
+    font-family:
+}
+
+/* .item:hover {
+    transform: scale(1.1);
+    background-color: orchid;
+} */
+
+
+   
